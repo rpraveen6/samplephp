@@ -3,7 +3,7 @@
 <body>
 
 <?php
-echo "My Page in ElasticBeanStalk!";
+echo "My Page in ElasticBeanStalk -- Version2!";
 ?>
 
 </body>
